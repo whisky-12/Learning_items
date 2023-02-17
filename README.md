@@ -6,6 +6,9 @@ This is a jointly maintained learning warehouse
 
 仓库内将存放大家的学习成果物
 
+# 报名登记
+[进程记录](https://shimo.im/file-invite/gc3hFp8394GuddfCWNMoFR8Wwpv16/)
+
 # 项目目录
 
 Contribution_information ----> 贡献资料文件夹
@@ -19,5 +22,3 @@ Cooperation_projects  ----> 合作项目文件夹， 此文件夹下提交大家
 1.提交成果物前，请确定提交支线为Dev_master,请勿直接向main提交
 
 2.提交前，请确定提交内容/代码(如有需要请本地测试)的正确性
-
-
