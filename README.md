@@ -6,6 +6,9 @@ This is a jointly maintained learning warehouse
 
 仓库内将存放大家的学习成果物
 
+# 报名登记
+[进程记录](https://shimo.im/file-invite/gc3hFp8394GuddfCWNMoFR8Wwpv16/)
+
 # 项目目录
 
 Contribution_information ----> 贡献资料文件夹
